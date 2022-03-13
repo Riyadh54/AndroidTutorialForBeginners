@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">constraintlayout</string>
+    <string name="muscat">
+        Muscat, Arabic Masqaṭ, town, capital of Oman,
+        located on the Gulf of Oman coast.
+        The town long gave its name to the country,
+        which was called Muscat and Oman until 1970.
+        Situated on a cove surrounded by volcanic mountains,
+        the town is connected by road to the west and the south.
+        In 1508 the Portuguese gained control of Muscat and the adjacent coast.
+        Until driven out in 1650, they maintained a trading post and naval base there.
+        Two 16th-century Portuguese forts overlook the town. Muscat’s old wall still stands,
+        as well as some of its gates.
+
+    </string>
+</resources>
