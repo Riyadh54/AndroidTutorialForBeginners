@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">6_ResponsiveScreen</string>
+    <string name="lorem_ipsum">لوريم ايبسوم دولار سيت أميت ,كونسيكتيتور أدايبا يسكينج أليايت,سيت دو أيوسمود تيمبور
+أنكايديديونتيوت لابوري ات دولار ماجنا أليكيون
+أكسير سيتاشن يللأمكو لابورأس نيسي يت أليكيوب أكس أيا كوممودو كونسيكيوات</string>
+    <string name="search">بحث....</string>
+    <string name="task">8 مهام</string>
+    <string name="paper">56 ورقة</string>
+    <string name="email">merhounriyadh54@gmail.com</string>
+    <string name="courses">الدورات</string>
+    <string name="cloud_computing">الحوسبة السحابية</string>
+    <string name="android_fundamental">أساسيات الأندرويد</string>
+    <string name="server_security">أمان الخادم</string>
+
+
+
+
+</resources>

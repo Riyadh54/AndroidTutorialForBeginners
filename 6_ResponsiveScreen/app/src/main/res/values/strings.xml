@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">6_ResponsiveScreen</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="search">Search...</string>
+    <string name="task">8 Task</string>
+    <string name="paper">56 Paper</string>
+    <string name="email">merhounriyadh54@gmail.com</string>
+    <string name="courses">Courses</string>
+    <string name="cloud_computing">Cloud Computing</string>
+    <string name="android_fundamental">Android Fundamental</string>
+    <string name="server_security">Server Security</string>
+</resources>

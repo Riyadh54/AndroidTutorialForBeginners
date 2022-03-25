@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+        <dimen name="main_background_padding" tools:ignore="MissingDefaultResource">20dp</dimen>
+        <dimen name="main_user_background_cardView_cornerRadius" tools:ignore="MissingDefaultResource">60dp</dimen>
+        <dimen name="main_user_image_width" tools:ignore="MissingDefaultResource">60dp</dimen>
+        <dimen name="main_user_image_height" tools:ignore="MissingDefaultResource">60dp</dimen>
+        <dimen name="main_et_search_marginStart" tools:ignore="MissingDefaultResource">8dp</dimen>
+        <dimen name="main_et_search_padding" tools:ignore="MissingDefaultResource">12dp</dimen>
+        <dimen name="main_ll_userName_marginTop" tools:ignore="MissingDefaultResource">12dp</dimen>
+        <dimen name="main_tv_userName_textSize" tools:ignore="MissingDefaultResource">17sp</dimen>
+        <dimen name="main_tv_userDiscription_marginTop" tools:ignore="MissingDefaultResource">6dp</dimen>
+        <dimen name="main_tv_userDiscription_textSize" tools:ignore="MissingDefaultResource">16sp</dimen>
+        <dimen name="main_imageView_settings_width" tools:ignore="MissingDefaultResource">35dp</dimen>
+        <dimen name="main_imageView_settings_height" tools:ignore="MissingDefaultResource">35dp</dimen>
+        <dimen name="main_imageView_settings_marginTop" tools:ignore="MissingDefaultResource">16dp</dimen>
+        <dimen name="main_view_line_height" tools:ignore="MissingDefaultResource">1dp</dimen>
+        <dimen name="main_view_line_marginTop" tools:ignore="MissingDefaultResource">12dp</dimen>
+        <dimen name="main_imageView_task_width" tools:ignore="MissingDefaultResource">35dp</dimen>
+        <dimen name="main_imageView_task_height" tools:ignore="MissingDefaultResource">35dp</dimen>
+        <dimen name="main_tv_task_marginStart" tools:ignore="MissingDefaultResource">6dp</dimen>
+        <dimen name="main_tv_task_textSize" tools:ignore="MissingDefaultResource">17sp</dimen>
+        <dimen name="main_tv_loremIpsum_textSize" tools:ignore="MissingDefaultResource">15sp</dimen>
+        <dimen name="main_tv_phone_marginStart" tools:ignore="MissingDefaultResource">12dp</dimen>
+        <dimen name="main_tv_courses_textSize" tools:ignore="MissingDefaultResource">22sp</dimen>
+        <dimen name="main_tv_cloud_marginTop" tools:ignore="MissingDefaultResource">60dp</dimen>
+        <dimen name="main_tv_cloud_textSize" tools:ignore="MissingDefaultResource">14sp</dimen>
+
+</resources>
