@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> مساحات الأشكال الهندسية</string>
+    <string name="main_tv_choose_shape">إختر الشكل</string>
+    <string name="main_btn_calculate">أحسب المساحة</string>
+
+    <string name="main_circle_Radius">أدخل قطر الدائرة</string>
+    <string name="main_rectangle_width">أدخل العرض</string>
+    <string name="main_rectangle_height">أدخل الطول</string>
+    <string name="main_triangle_Base">أدخل طول القاعدة</string>
+    <string name="main_triangle_Height">أدخل طول الإرتفاع</string>
+    <string name="main_Square_Length_side">أدخل طول الضلع</string>
+
+    <string-array name="shapes">
+        <item>الدائرة</item>
+        <item>المستطيل</item>
+        <item>المثلث</item>
+        <item>المربع</item>
+    </string-array>
+</resources>

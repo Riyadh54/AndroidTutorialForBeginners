@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AreasCalculator</string>
+    <string name="main_tv_choose_shape">Choose the shape</string>
+    <string name="main_btn_calculate">Calculate</string>
+
+    <string name="main_circle_Radius">Enter the radius</string>
+    <string name="main_rectangle_width">Enter the width </string>
+    <string name="main_rectangle_height">Enter the length </string>
+    <string name="main_triangle_Base">Enter the Base</string>
+    <string name="main_triangle_Height">Enter the Height</string>
+    <string name="main_Square_Length_side">Length of the side</string>
+
+    <string-array name="shapes">
+       <item>Circle</item>
+       <item>Rectangle</item>
+       <item>Triangle</item>
+       <item>Square</item>
+    </string-array>
+
+</resources>

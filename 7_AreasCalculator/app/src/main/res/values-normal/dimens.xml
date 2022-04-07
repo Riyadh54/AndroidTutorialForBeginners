@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+ <dimen name="main_ll_padding" tools:ignore="MissingDefaultResource">12dp</dimen>
+ <dimen name="main_spinner_shapes_marginStart" tools:ignore="MissingDefaultResource">25dp</dimen>
+ <dimen name="main_btn_calculate_textSize" tools:ignore="MissingDefaultResource">20sp</dimen>
+ <dimen name="main_tv_result_textSize" tools:ignore="MissingDefaultResource">40sp</dimen>
+ <dimen name="main_tv_choose_the_shape_textSize" tools:ignore="MissingDefaultResource">20sp</dimen>
+ <dimen name="main_sp_textSize" tools:ignore="MissingDefaultResource">25sp</dimen>
+
+</resources>
