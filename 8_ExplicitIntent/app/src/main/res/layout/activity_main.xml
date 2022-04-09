@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/grey"
+    >
+
+    <TextView
+        android:id="@+id/main_tv_nameActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Activity A"
+        android:textSize="50sp"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
+
+    <TextView
+        android:id="@+id/activityA_tv_nameIntent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main_tv_nameActivity"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:text="Activity A"
+        android:textColor="@color/black"
+        android:textSize="22sp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/main_tv_nameActivity"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        >
+        <Button
+            android:id="@+id/activityA_btn_moveB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/teal_200"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text=" Activity B"
+            android:layout_margin="8dp"
+            />
+        <Button
+            android:id="@+id/activityA_btn_moveC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/teal_200"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text=" Activity C"
+            android:layout_margin="8dp"
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityB"
+    android:background="@color/grey"
+    >
+
+    <TextView
+        android:id="@+id/activityB_tv_nameActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Activity B"
+        android:textSize="50sp"
+        android:textColor="@color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:layout_below="@+id/activityB_tv_nameActivity"
+        android:layout_centerHorizontal="true"
+        android:text="Intent from Activity A"
+        android:textSize="22sp"
+        android:layout_marginTop="22dp"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/activityB_btn_move"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/teal_200"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/activityB_tv_nameActivity"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:text=" Return To Activity A"
+        />
+
+</RelativeLayout>
