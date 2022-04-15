@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CustomAdapter</string>
+    <array name="countries">
+        <item>الجزائر</item>
+        <item>المغرب</item>
+        <item>تونس</item>
+        <item>ليبيا</item>
+        <item>مصر</item>
+        <item>السودان</item>
+        <item>السعودية</item>
+        <item>قطر</item>
+        <item>الأردن</item>
+    </array>
+</resources>
