@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/image_v"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/ic_baseline_notifications_24"
+        />
+    <TextView
+        android:id="@+id/notifications_tv_count"
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:gravity="center"
+        android:layout_marginStart="-12dp"
+        android:layout_marginBottom="-12dp"
+        android:layout_above="@+id/image_v"
+        android:layout_toEndOf="@+id/image_v"
+        android:text="5"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        android:background="@drawable/tv_not_shape"
+        />
+
+</RelativeLayout>

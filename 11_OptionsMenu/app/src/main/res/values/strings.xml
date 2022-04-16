@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionsMenu</string>
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="notifications">Notifications</string>
+    <string name="search">Search</string>
+
+</resources>
