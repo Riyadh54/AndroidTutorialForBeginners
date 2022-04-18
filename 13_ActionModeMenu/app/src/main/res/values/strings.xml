@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActionModeMenu</string>
+    <array name="countries">
+        <item>Saudi Arabia</item>
+        <item>Morocco</item>
+        <item>Algeria</item>
+        <item>Tunisia</item>
+        <item>libya</item>
+        <item>Egypt</item>
+        <item>Sudan</item>
+        <item>Jordan</item>
+        <item>Oman</item>
+        <item>Qatar</item>
+        <item>Iraq</item>
+    </array>
+</resources>
