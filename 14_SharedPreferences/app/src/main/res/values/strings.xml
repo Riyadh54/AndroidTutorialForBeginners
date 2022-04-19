@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="user_password">User Password</string>
+    <string name="sava_data">Sava data</string>
+    <string name="restore_data">Restore data</string>
+</resources>
