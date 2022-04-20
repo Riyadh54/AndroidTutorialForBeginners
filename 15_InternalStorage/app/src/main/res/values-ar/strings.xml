@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الذاكرة الداخلية</string>
+    <string name="user_name">إسم المستخدم</string>
+    <string name="user_email">البريد الإلكتروني</string>
+    <string name="user_password">كلمة السر</string>
+    <string name="sava_data">حفظ البيانات</string>
+    <string name="restore_data">إسترجاع البيانات</string>
+</resources>
