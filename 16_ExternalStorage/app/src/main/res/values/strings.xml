@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExternalStorage</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="user_password">User Password</string>
+    <string name="sava_data">Sava data</string>
+    <string name="restore_data">Restore data</string>
+    <string name="app_permission">App Permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="permission_message">In order to run this app ,you must agree to request for External Storage</string>
+</resources>

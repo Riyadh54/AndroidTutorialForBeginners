@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الذاكرة الخارجية</string>
+    <string name="user_name">إسم المستخذم</string>
+    <string name="user_email">البريد الإلكتروني</string>
+    <string name="user_password">كلمة السر</string>
+    <string name="sava_data">حفظ البيانات</string>
+    <string name="restore_data">إسترجاع البيانات</string>
+
+    <string name="app_permission">صلاحية الوصول</string>
+    <string name="open_settings">فتح الإعدادات</string>
+    <string name="permission_message">من أجل تشغيل هدا التطبيق يجب أن تقوم بالموافقة على الوصول إلى الذاكرة الخاردية الخاصة </string>
+</resources>
