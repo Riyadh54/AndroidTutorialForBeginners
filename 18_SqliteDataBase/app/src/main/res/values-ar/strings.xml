@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">قاعدة بيانات sqlite</string>
+    <string name="car_name">إسم السيارة</string>
+    <string name="car_model">نوع السيارة</string>
+    <string name="car_color">لون السيارة</string>
+    <string name="sava_data">حفظ البيانات</string>
+    <string name="restore_data">إسترجاع البيانات</string>
+    <string name="update_data">تعديل البيانات</string>
+    <string name="delete_data">حذف البيانات</string>
+    <string name="select">تحديد</string>
+    <string name="cancel">رجوع</string>
+    <string name="empty">قواعد البيانات فارغة</string>
+    <string name="nothing_delete">لم يحدف اي عنصر</string>
+    <string name="fill_fields">الحقول فارغة</string>
+    <string name="distance_for_litre">المسافة باللتر</string>
+    <string name="id">ID</string>
+    <string name="distance">المسافة باللتر</string>
+
+    <string-array name="spinner_delete">
+        <item>حذف كل البيانات</item>
+        <item>حذف يواسطة الإسم والنوع</item>
+    </string-array>
+    <string-array name="spinner_search">
+        <item>جلب كل البيانات</item>
+        <item>جلب البيانات بواسطة الإسم</item>
+    </string-array>
+    <string-array name="spinner_update">
+        <item>تحديث كل البيانات</item>
+        <item>تحذيث بواسطة الإسم والنوع</item>
+    </string-array>
+
+
+</resources>
