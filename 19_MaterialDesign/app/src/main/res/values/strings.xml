@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="title1">-A battle between an English ship and barbarian privateers.</string>
+    <string name="title2">Painting: Willem van de Velde de Jonge (1633–1707)</string>
+    <string name="description1">Much of Algeria is history took place in the fertile coastal plains of North Africa,the region known as the Maghreb. To this day,North Africa has served as a transit region for people moving to Europe or the Middle East,or vice versa, and so the region is inhabitants have been influenced by peoples from other areas,including the Carthaginians, Romans, Vandals, Arabs, Turks, Spanish, and French.</string>
+    <string name="description2"><a>Barbary pirates</a></string>
+    <string name="description4"><a href="https://en.wikipedia.org/wiki/Barbary_pirates">Barbary pirates</a></string>
+    <string name="description3">The story of the Barbary corsairs, Muslim pirates and privateers who operated from North Africa,
+ based primarily in the ports of Salé, Rabat, Algiers, Tunis, and Tripoli</string>
+</resources>
