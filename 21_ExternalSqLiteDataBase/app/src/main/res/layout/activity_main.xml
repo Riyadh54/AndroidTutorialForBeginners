@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="12dp"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/car_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:hint="@string/car_name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/car_model"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/car_name"
+        android:layout_alignParentStart="true"
+        android:hint="@string/car_model"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/car_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/car_model"
+        android:hint="@string/car_color"
+        android:inputType="text"
+        />
+
+    <EditText
+        android:id="@+id/car_distance_for_litre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/car_color"
+        android:layout_alignParentStart="true"
+        android:hint="@string/distance_for_litre"
+        android:inputType="numberDecimal" />
+
+
+    <Button
+        android:id="@+id/main_btn_save_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/car_distance_for_litre"
+        android:backgroundTint="@color/teal_200"
+        android:text="@string/sava_data" />
+
+    <Button
+        android:id="@+id/main_btn_restore_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main_btn_save_data"
+        android:backgroundTint="@color/teal_200"
+        android:text="@string/restore_data" />
+    <Button
+        android:id="@+id/main_btn_update_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main_btn_restore_data"
+        android:backgroundTint="@color/teal_200"
+        android:text="@string/update_data" />
+
+    <Button
+        android:id="@+id/main_btn_delete_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main_btn_update_data"
+        android:backgroundTint="@color/teal_200"
+        android:text="@string/delete_data" />
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main_btn_delete_data"
+        android:orientation="horizontal"
+        android:visibility="invisible"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/id"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:layout_weight="1"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/car_name"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/car_model"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/car_color"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/distance"
+            android:layout_weight="1"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            />
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/main_rv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/linear_layout"
+        android:gravity="center"
+        />
+
+
+
+
+
+
+</RelativeLayout>

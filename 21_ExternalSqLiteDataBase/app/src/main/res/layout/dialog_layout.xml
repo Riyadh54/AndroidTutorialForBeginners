@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <Spinner
+        android:id="@+id/dialog_layout_sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/spinner_delete"
+        />
+    <EditText
+        android:id="@+id/dialog_layout_et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/car_name"
+        android:visibility="gone"
+        />
+    <EditText
+        android:id="@+id/dialog_layout_et_model"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/car_model"
+        android:visibility="gone"
+        />
+
+
+</LinearLayout>

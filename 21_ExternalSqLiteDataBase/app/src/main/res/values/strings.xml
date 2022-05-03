@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ExternalSqLiteDataBase</string>
+    <string name="car_name">Car Name</string>
+    <string name="car_model">Car Model </string>
+    <string name="car_color">Car Color</string>
+    <string name="sava_data">Sava data</string>
+    <string name="restore_data">Restore data</string>
+    <string name="update_data">Update data</string>
+    <string name="delete_data">Delete data</string>
+    <string name="select">SELECT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="empty">DataBase is empty</string>
+    <string name="nothing_delete">Nothing Delete</string>
+    <string name="fill_fields">Please fill the Fields</string>
+    <string name="distance_for_litre">Distance For Litre</string>
+    <string name="id">ID</string>
+    <string name="distance">DistanceLitre</string>
+    <string name="there_is_no">This name does not exist within database</string>
+
+    <string-array name="spinner_delete">
+        <item>Delete All Data</item>
+        <item>Delete by name And Model</item>
+    </string-array>
+    <string-array name="spinner_search">
+        <item>get All Data</item>
+        <item>get Data by Car Name</item>
+    </string-array>
+    <string-array name="spinner_update">
+        <item>Update All Data</item>
+        <item>Update Data by Name And Model</item>
+    </string-array>
+
+
+</resources>
