@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".Activities.AddEmployeeActivity">
+    <ImageView
+        android:id="@+id/add_employee_employee_image"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_baseline_person"
+        />
+<EditText
+    android:id="@+id/add_employee_et_name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="name"
+    android:layout_marginTop="6dp"
+    />
+    <EditText
+        android:id="@+id/add_employee_et_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:hint="email"
+        android:inputType="textEmailAddress"
+        />
+    <EditText
+        android:id="@+id/add_employee_et_salary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="salary"
+        android:layout_marginTop="6dp"
+        android:inputType="number"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Date Birthday :"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_weight="1"
+
+            />
+        <EditText
+            android:id="@+id/add_employee_et_birthday"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:drawableRight="@drawable/ic_baseline_today_24"
+            />
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/add_employee_btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Save"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+
+
+
+</LinearLayout>
