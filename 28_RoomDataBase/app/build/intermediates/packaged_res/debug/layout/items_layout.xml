@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="6dp"
+    android:background="@color/grey"
+    >
+   <TextView
+       android:id="@+id/custom_items_tv_name"
+       android:layout_width="0dp"
+       android:layout_height="wrap_content"
+       android:text="Car Name"
+       android:textSize="22sp"
+       android:textColor="@color/black"
+       android:layout_weight="1"
+       android:gravity="center"
+       />
+    <TextView
+        android:id="@+id/custom_items_tv_model"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Car Model"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/custom_items_tv_price"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="555$"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        />
+
+</LinearLayout>

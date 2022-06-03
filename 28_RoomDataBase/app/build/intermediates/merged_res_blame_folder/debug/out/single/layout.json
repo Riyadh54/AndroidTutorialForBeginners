@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-mergeDebugResources-30:\\layout\\activity_add_cars.xml",
+        "source": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-main-33:\\layout\\activity_add_cars.xml"
+    },
+    {
+        "merged": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-mergeDebugResources-30:\\layout\\custom_spinner_item.xml",
+        "source": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-main-33:\\layout\\custom_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-mergeDebugResources-30:\\layout\\activity_add_prices.xml",
+        "source": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-main-33:\\layout\\activity_add_prices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-mergeDebugResources-30:\\layout\\items_layout.xml",
+        "source": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.a28_roomdatabase.app-main-33:\\layout\\items_layout.xml"
+    },
+    {
+        "merged": "com.example.a28_roomdatabase.app-mergeDebugResources-30:/layout/activity_add_prices.xml",
+        "source": "com.example.a28_roomdatabase.app-main-33:/layout/activity_add_prices.xml"
+    }
+]

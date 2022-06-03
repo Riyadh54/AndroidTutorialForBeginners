@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable fastfood
+drawable fastfood2
+drawable food
+drawable ic_baseline_cake
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable pastry
+drawable pastry1
+drawable pastry2
+drawable pizza
+drawable pizza1
+drawable spagity
+id custom_items_img
+id custom_items_tv_name
+id custom_items_tv_price
+id fragment_rv
+id main_tabLayout
+id main_viewPager
+layout activity_main
+layout custom_items
+layout fragment_products
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Theme.ViewPager2
+xml backup_rules
+xml data_extraction_rules

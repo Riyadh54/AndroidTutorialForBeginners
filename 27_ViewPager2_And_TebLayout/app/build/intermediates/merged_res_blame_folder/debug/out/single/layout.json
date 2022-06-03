@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.viewpager2.app-mergeDebugResources-24:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.viewpager2.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.viewpager2.app-mergeDebugResources-24:\\layout\\custom_items.xml",
+        "source": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.viewpager2.app-main-27:\\layout\\custom_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.viewpager2.app-mergeDebugResources-24:\\layout\\fragment_products.xml",
+        "source": "C:\\Users\\Riyadh95\\.gradle\\daemon\\7.3.3\\com.example.viewpager2.app-main-27:\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "com.example.viewpager2.app-mergeDebugResources-24:/layout/custom_items.xml",
+        "source": "com.example.viewpager2.app-main-27:/layout/custom_items.xml"
+    }
+]
